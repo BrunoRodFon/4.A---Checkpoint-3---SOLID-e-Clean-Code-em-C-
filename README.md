@@ -60,7 +60,3 @@ A refatoração completa está disponível no arquivo [`BibliotecaRefatorada.cs`
   - Separação clara de camadas
   - Comentários apenas quando necessário
 
----
-
-## 📁 Estrutura do Projeto
-
